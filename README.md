@@ -5,14 +5,16 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+
+  - [The challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+  - [Screenshot](https://snipboard.io/DW6s71.jpg)
+
+  
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+
+  - [Built with](HTML, CSS, JavaScript)
+  - [What I learned](JavaScript usage)
+  - [Useful resources](#bootstrap)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
