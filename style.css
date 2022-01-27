@@ -169,6 +169,11 @@ h1 {
 /* Styling For the Mobiles screen*/
 
 @media (max-width: 375px) {
+
+    body{
+        background: no-repeat;
+    }
+
     #main-card {
         width: 330px;
         display: flex;
